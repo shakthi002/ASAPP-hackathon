@@ -1,12 +1,12 @@
 streamlit==1.25.0  # Streamlit for creating web apps
 # Updated versions to avoid conflicts
-groq==0.5.0
-cohere==5.5.6
-PyPDF2==3.0.1
-pymupdf==1.22.3
-Pillow==9.2.0
-pinecone-client==3.2.2
-langchain-community==0.2.6
-langchain-core==0.2.2
-langchain-pinecone==0.1.0
-pypdf==3.10.0
+groq
+cohere
+PyPDF2
+pymupdf
+Pillow
+pinecone-client
+langchain-community
+langchain-core
+langchain-pinecone
+pypdf
