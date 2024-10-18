@@ -3,3 +3,5 @@ This project aims to process research papers (PDF files) by extracting text and 
 ![ASAPP-1](https://github.com/user-attachments/assets/7543ec0a-382c-4935-a585-eaf4af2fd96e)
 
 ![image](https://github.com/user-attachments/assets/1f1e04ea-98fd-4b6f-a76c-e81169f543c6)
+
+For running -  Install requirements.txt and execute the command streamlit run main.py
